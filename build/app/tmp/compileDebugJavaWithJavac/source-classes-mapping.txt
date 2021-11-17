@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/technion/android/hellome/startup_namer/BuildConfig.java
+ com.technion.android.hellome.startup_namer.BuildConfig
